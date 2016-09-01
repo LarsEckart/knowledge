@@ -4,8 +4,6 @@
 
 ### Allow `npm install -g` without needing `sudo`
 
-Run:
-
 ```
 npm config set prefix $dir
 chown -R lars $dir
