@@ -34,3 +34,8 @@ jstack <pid>
 ```
 It dumps out all threads and what they are doing
 
+## Testing
+
+### How to test that an exception is thrown
+
+[expected exception in test](https://monkeyisland.pl/2010/07/26/expected-exception-in-tests/)
