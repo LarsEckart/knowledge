@@ -19,3 +19,7 @@
 >Send a message rather than implement behaviour
 
 >Fine the message, (create the object,) send the message
+
+Daniel Bryant at javaone 2016, "Thinking Fast and Slow with Software Development"
+
+>HiPPO - highest paid person's opinion :D
