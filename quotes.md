@@ -20,6 +20,6 @@
 
 >Fine the message, (create the object,) send the message
 
-Daniel Bryant at javaone 2016, "Thinking Fast and Slow with Software Development"
+[Charlie "Tremendous" Jones](http://www.leadernetwork.org/charlie_jones_february_06.htm)
 
->HiPPO - highest paid person's opinion :D
+>You are the same today you’ll be in five years except for two things: the people you meet and the books you read.
