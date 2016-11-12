@@ -12,4 +12,5 @@
 * Nudge: Improving Decisions About Health, Wealth, and Happiness
 * Pragmatic Thinking and Learning: Refactor Your Wetware
 * Thinking, Fast and Slow
-* Badass: Making Users Awesome 
+* Badass: Making Users Awesome
+* How to Design Programs: An Introduction to Programming and Computing
