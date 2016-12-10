@@ -23,3 +23,8 @@
 [Charlie "Tremendous" Jones](http://www.leadernetwork.org/charlie_jones_february_06.htm)
 
 >You are the same today you’ll be in five years except for two things: the people you meet and the books you read.
+
+[C J Silverio](https://www.youtube.com/watch?v=WQKf0hZd8Ic)
+
+>collaborative, constructive, curious
+
