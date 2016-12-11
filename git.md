@@ -6,7 +6,7 @@
 git merge my_feature_branch --no-commit --no-ff
 ```
 
-## Unstage a gile
+## Unstage a file
 
 ```
 git rm --cached file_name
