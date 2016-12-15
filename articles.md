@@ -10,3 +10,4 @@ to read or to keep as list of articles worth to read.
 * [20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/index.php?id=132)
 * [Do-It-Yourself Dependency Injection](http://blacksheep.parry.org/wp-content/uploads/2010/03/DIY-DI.pdf)
 * [APPROACHING OUTSIDE-IN TDD ON ANDROID I](https://codurance.com/2016/09/28/approaching-tdd-outside-android/)
+* [Overcoming Roadblocks While Learning to Code in Your Spare Time](https://www.vikingcodeschool.com/posts/learning-to-code-in-your-spare-time)
