@@ -3,6 +3,7 @@
 to read or to keep as list of articles worth to read.
 
 ## have to find time reading this
+* [Getting Started with Dropwizard](https://www.sitepoint.com/tutorial-getting-started-dropwizard/)
 * [Reactive programming vs. Reactive systems](https://www.oreilly.com/ideas/reactive-programming-vs-reactive-systems)
 * [Good naming is a process, not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
 * [Bloom Filters by Example](http://llimllib.github.io/bloomfilter-tutorial/)

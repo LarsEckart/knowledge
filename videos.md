@@ -18,3 +18,4 @@ to be watched or to keep as list of videos worth to watch.
 * [Julia Evans - Systems programming as a swiss army knife](https://www.youtube.com/watch?v=HfD9IMZ9rKY)
 * [Kotlin Night in London Recordings](https://blog.jetbrains.com/kotlin/2016/11/kotlin-night-in-london-recordings/)
 * [Fizz buzzkill - Answering tricky JS interview questions](https://www.youtube.com/watch?v=cMxI8n393ZM)
+* [Collection of awesome talks](https://github.com/JanVanRyswyck/awesome-talks)
