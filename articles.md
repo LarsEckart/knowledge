@@ -17,3 +17,4 @@ to read or to keep as list of articles worth to read.
 * [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/#more-243)
 * [Overcoming Roadblocks While Learning to Code in Your Spare Time](https://www.vikingcodeschool.com/posts/learning-to-code-in-your-spare-time)
 * [some notes on RFCs](http://blog.npmjs.org/post/153881413635/some-notes-on-rfcs)
+* [Code is better when we write it together](https://8thlight.com/blog/daniel-irvine/2016/11/28/code-is-better-when-we-write-it-together.html)
