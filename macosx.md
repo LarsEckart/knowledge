@@ -17,3 +17,7 @@ defaults write com.apple.symbolichotkeys AppleSymbolicHotKeys -dict-add 70 '<dic
 ```
 
 and restart.
+
+## Switch between desktops
+
+Crtl + left/right arrow
