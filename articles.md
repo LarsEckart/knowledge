@@ -18,3 +18,5 @@ to read or to keep as list of articles worth to read.
 * [Overcoming Roadblocks While Learning to Code in Your Spare Time](https://www.vikingcodeschool.com/posts/learning-to-code-in-your-spare-time)
 * [some notes on RFCs](http://blog.npmjs.org/post/153881413635/some-notes-on-rfcs)
 * [Code is better when we write it together](https://8thlight.com/blog/daniel-irvine/2016/11/28/code-is-better-when-we-write-it-together.html)
+* [Syscall Auditing at Scale](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.6boijfnb3)
+* [Progressive Web Apps](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.cdoxmvvow)
