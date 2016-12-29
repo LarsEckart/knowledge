@@ -12,6 +12,7 @@ to read or to keep as list of articles worth to read.
 * [APPROACHING OUTSIDE-IN TDD ON ANDROID I](https://codurance.com/2016/09/28/approaching-tdd-outside-android/)
 * [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2#.ubswx466e)
 * [HyperDev](https://www.joelonsoftware.com/2016/05/31/introducing-hyperdev/)
+* [Coderetreat](http://coderetreat.org/)
 
 ## found the time to read this
 * [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/#more-243)
