@@ -20,3 +20,4 @@ to be watched or to keep as list of videos worth to watch.
 * [Fizz buzzkill - Answering tricky JS interview questions](https://www.youtube.com/watch?v=cMxI8n393ZM)
 * [Collection of awesome talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [Julia Evans - You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM)
+* [Tomasz Nurkiewicz — CompletableFuture in Java 8, asynchronous processing done right](https://www.youtube.com/watch?v=-MBPQ7NIL_Y)
