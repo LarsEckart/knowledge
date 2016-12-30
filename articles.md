@@ -13,6 +13,9 @@ to read or to keep as list of articles worth to read.
 * [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2#.ubswx466e)
 * [HyperDev](https://www.joelonsoftware.com/2016/05/31/introducing-hyperdev/)
 * [Coderetreat](http://coderetreat.org/)
+* [Android Clean Architecture 1](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.kzkinbmfm)
+* [Android Clean Architecture 2](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+* [Android Clean Architecture 3](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 
 ## found the time to read this
 * [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/#more-243)
