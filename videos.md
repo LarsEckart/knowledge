@@ -21,3 +21,8 @@ to be watched or to keep as list of videos worth to watch.
 * [Collection of awesome talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [Julia Evans - You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM)
 * [Tomasz Nurkiewicz — CompletableFuture in Java 8, asynchronous processing done right](https://www.youtube.com/watch?v=-MBPQ7NIL_Y)
+* [Make Wi-Fi fast again](https://media.ccc.de/v/33c3-7911-make_wi-fi_fast_again)
+* [Console Hacking 2016](https://media.ccc.de/v/33c3-7946-console_hacking_2016)
+* [Retail Surveillance / Retail Countersurveillance](https://media.ccc.de/v/33c3-8238-retail_surveillance_retail_countersurveillance)
+
+

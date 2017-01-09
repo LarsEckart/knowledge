@@ -39,3 +39,17 @@ It dumps out all threads and what they are doing
 ### How to test that an exception is thrown
 
 [expected exception in test](https://monkeyisland.pl/2010/07/26/expected-exception-in-tests/)
+
+## Gradle
+
+### How to enforce that  all dependencies use the same version, also transitive ones
+
+```groovy
+configurations.all {
+    resolutionStrategy {
+        // fail eagerly on version conflict (includes transitive dependencies)
+        // e.g. multiple different versions of the same dependency (group and name are equal)
+        failOnVersionConflict()
+    }
+}
+```
