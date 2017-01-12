@@ -14,3 +14,4 @@
 * Thinking, Fast and Slow
 * Badass: Making Users Awesome
 * How to Design Programs: An Introduction to Programming and Computing
+* Mastering Lambdas: Java Programming in a Multicore World
