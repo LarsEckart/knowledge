@@ -19,6 +19,8 @@ to read or to keep as list of articles worth to read.
 * [Building blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
 * [December 2016: Advent of Code Solutions](http://nbviewer.jupyter.org/url/norvig.com/ipython/Advent%20of%20Code.ipynb)
 * [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
+* [Generics FAQ](http://www.angelikalanger.com/GenericsFAQ/FAQSections/Fundamentals.html)
+* [Lambda FAQ](http://www.lambdafaq.org/what-is-a-lambda-expression/)
 
 ## found the time to read this
 * [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/#more-243)
