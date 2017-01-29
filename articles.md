@@ -21,6 +21,7 @@ to read or to keep as list of articles worth to read.
 * [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
 * [Generics FAQ](http://www.angelikalanger.com/GenericsFAQ/FAQSections/Fundamentals.html)
 * [Lambda FAQ](http://www.lambdafaq.org/what-is-a-lambda-expression/)
+* [Building a Motion Activated Security Camera with the Raspberry Pi Zero](https://utbrudd.bouvet.no/2017/01/05/building-a-motion-activated-security-camera-with-the-raspberry-pi-zero/)
 
 ## found the time to read this
 * [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/#more-243)
