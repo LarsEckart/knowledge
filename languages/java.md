@@ -53,3 +53,27 @@ configurations.all {
     }
 }
 ```
+
+### add/check license headers in source files
+
+[link](https://github.com/hierynomus/license-gradle-plugin)
+
+```groovy
+buildscript {
+    repositories {
+        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath "gradle.plugin.nl.javadude.gradle.plugins:license-gradle-plugin:0.13.1"
+    }
+}
+
+apply plugin: "com.github.hierynomus.license"
+
+license {
+    mapping('java', 'SLASHSTAR_STYLE')
+}
+```
