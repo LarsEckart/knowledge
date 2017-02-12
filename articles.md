@@ -30,3 +30,4 @@ to read or to keep as list of articles worth to read.
 * [Code is better when we write it together](https://8thlight.com/blog/daniel-irvine/2016/11/28/code-is-better-when-we-write-it-together.html)
 * [Syscall Auditing at Scale](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.6boijfnb3)
 * [Progressive Web Apps](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.cdoxmvvow)
+* [Keeping third party swift dependencies testable](https://8thlight.com/blog/mike-knepper/2017/01/30/keeping-third-party-swift-dependencies-testable.html)
