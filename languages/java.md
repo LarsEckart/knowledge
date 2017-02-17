@@ -1,5 +1,10 @@
 # Java
 
+## Libraries to check out
+
+* [JDBI is a SQL convenience library](http://www.jdbi.org/)
+* [HikariCP, a solid high-performance JDBC connection pool](https://github.com/brettwooldridge/HikariCP)
+
 ## Javadoc
 
 How to link to methods or classes
