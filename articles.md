@@ -29,6 +29,7 @@ to read or to keep as list of articles worth to read.
 
 
 
+
 ## found the time to read this
 * [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/#more-243)
 * [Overcoming Roadblocks While Learning to Code in Your Spare Time](https://www.vikingcodeschool.com/posts/learning-to-code-in-your-spare-time)
