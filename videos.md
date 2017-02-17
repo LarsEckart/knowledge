@@ -6,6 +6,7 @@ to be watched or to keep as list of videos worth to watch.
   * what should you learn, from where to learn, how can we learn
 * [Rich Hickey - Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) (watched)
   * Simplicity is the most important thing, entanglement,  simplicity enables change
+* [](https://www.infoq.com/presentations/Simple-Made-Easy)
 * [Eskil Steenberg - How I program C](https://www.youtube.com/watch?v=443UNeGrFoM)
 * [David Heinemeier Hansson - Writing Software](https://www.youtube.com/watch?v=9LfmrkyP81M)
 * [Java Libraries You Can’t Afford to Miss](https://www.youtube.com/watch?v=pmmP-7d6pWw)
@@ -24,5 +25,7 @@ to be watched or to keep as list of videos worth to watch.
 * [Make Wi-Fi fast again](https://media.ccc.de/v/33c3-7911-make_wi-fi_fast_again)
 * [Console Hacking 2016](https://media.ccc.de/v/33c3-7946-console_hacking_2016)
 * [Retail Surveillance / Retail Countersurveillance](https://media.ccc.de/v/33c3-8238-retail_surveillance_retail_countersurveillance)
+* [We're doing it all werong](https://www.youtube.com/watch?v=TS1lpKBMkgg)
+* [war on classloader leaks](https://www.youtube.com/watch?v=dXqIfo5h2BE)
 
 
