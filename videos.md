@@ -27,5 +27,6 @@ to be watched or to keep as list of videos worth to watch.
 * [Retail Surveillance / Retail Countersurveillance](https://media.ccc.de/v/33c3-8238-retail_surveillance_retail_countersurveillance)
 * [We're doing it all werong](https://www.youtube.com/watch?v=TS1lpKBMkgg)
 * [war on classloader leaks](https://www.youtube.com/watch?v=dXqIfo5h2BE)
-
+* [Devoxx Poland 2016 - Daniel Sawano, Daniel Deogun - Beyond lambdas - the aftermath](https://www.youtube.com/watch?v=sbcXQJA0EQc)
+  * great video about some gotchas when using java8
 
