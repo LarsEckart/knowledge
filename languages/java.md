@@ -59,6 +59,12 @@ configurations.all {
 }
 ```
 
+### How to see dependency graph
+
+```groovy
+gradle dependencies --configuration runtime
+```
+
 ### add/check license headers in source files
 
 [link](https://github.com/hierynomus/license-gradle-plugin)

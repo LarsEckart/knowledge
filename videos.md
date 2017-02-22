@@ -29,4 +29,5 @@ to be watched or to keep as list of videos worth to watch.
 * [war on classloader leaks](https://www.youtube.com/watch?v=dXqIfo5h2BE)
 * [Devoxx Poland 2016 - Daniel Sawano, Daniel Deogun - Beyond lambdas - the aftermath](https://www.youtube.com/watch?v=sbcXQJA0EQc)
   * great video about some gotchas when using java8
+* [Date and Time in Java 8](https://www.youtube.com/watch?v=2HXc3f-C3L0)
 
