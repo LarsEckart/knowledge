@@ -15,3 +15,4 @@
 * Badass: Making Users Awesome
 * How to Design Programs: An Introduction to Programming and Computing
 * Mastering Lambdas: Java Programming in a Multicore World
+* Project Retrospectives: A Handbook for Team Reviews
