@@ -26,7 +26,11 @@ to read or to keep as list of articles worth to read.
 * [java generics gotchas](http://aioo.be/mirrored/java-theory-and-practice-generics-gotchas.html))
 * [java 310 articles](http://www.threeten.org/articles/index.html)
 * [more articles on java 310](http://www.threeten.org/links.html)
-
+* [Questions to ask in job interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+* [CircutBreaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+* [Dining philosopher in java8](http://bruceeckel.github.io/2016/12/29/dining-philosophers-in-java-8/)
+* [Java Design Checklist](https://theamiableapi.com/2012/01/16/java-api-design-checklist/)
+* [No more boilerplate code](http://blog.thecodewhisperer.com/permalink/no-more-boilerplate-code)
 
 
 
