@@ -31,3 +31,7 @@
 >Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
 
 [Norm Kerth] (https://youtu.be/6m9nCtyn6kE?t=36m40s)
+
+>The gap from ‘average’ to ‘good’ is big, people need to work very hard to get to ‘good’. But, to go from ‘good’ to ‘excellent’ it’s only 2mm extra distance. Yet people are happy to settle at ‘good’. They never know just how close they were to achieving something truly excellent.
+
+Danyl Bosomworth (based on Tony Robbins’ 2mm Rule)
