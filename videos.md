@@ -33,3 +33,4 @@ to be watched or to keep as list of videos worth to watch.
 * [Jez Humble - Architecting for Continuous Delivery](https://www.youtube.com/watch?v=_wnd-eyPoMo&feature=youtu.be&t=199)
 * [Uwe Friedrichsen: Resilient functional service design](https://www.youtube.com/watch?v=F3wqb6nTzOw)
 * [A JVM Does That???](https://www.youtube.com/watch?v=-vizTDSz8NU&app=desktop)
+* [Why technical leadership matters](https://youtu.be/_6BKK1SPAVI)
