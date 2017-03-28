@@ -31,7 +31,7 @@ to read or to keep as list of articles worth to read.
 * [Dining philosopher in java8](http://bruceeckel.github.io/2016/12/29/dining-philosophers-in-java-8/)
 * [Java Design Checklist](https://theamiableapi.com/2012/01/16/java-api-design-checklist/)
 * [No more boilerplate code](http://blog.thecodewhisperer.com/permalink/no-more-boilerplate-code)
-
+* [Bash quirks](http://jvns.ca/blog/2017/03/26/bash-quirks/)
 
 
 ## found the time to read this
