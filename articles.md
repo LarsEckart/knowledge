@@ -42,3 +42,4 @@ to read or to keep as list of articles worth to read.
 * [Syscall Auditing at Scale](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.6boijfnb3)
 * [Progressive Web Apps](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.cdoxmvvow)
 * [Keeping third party swift dependencies testable](https://8thlight.com/blog/mike-knepper/2017/01/30/keeping-third-party-swift-dependencies-testable.html)
+* [From Engineer to Manager: keeping your technical skills](https://hackernoon.com/from-engineer-to-manager-keeping-your-technical-skills-40579cc8ea00)
