@@ -34,3 +34,4 @@ to be watched or to keep as list of videos worth to watch.
 * [Uwe Friedrichsen: Resilient functional service design](https://www.youtube.com/watch?v=F3wqb6nTzOw)
 * [A JVM Does That???](https://www.youtube.com/watch?v=-vizTDSz8NU&app=desktop)
 * [Why technical leadership matters](https://youtu.be/_6BKK1SPAVI)
+* [Frederick Brooks’ The Mythical Man Month](https://vimeo.com/71116317)
