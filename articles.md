@@ -43,3 +43,5 @@ to read or to keep as list of articles worth to read.
 * [Progressive Web Apps](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.cdoxmvvow)
 * [Keeping third party swift dependencies testable](https://8thlight.com/blog/mike-knepper/2017/01/30/keeping-third-party-swift-dependencies-testable.html)
 * [From Engineer to Manager: keeping your technical skills](https://hackernoon.com/from-engineer-to-manager-keeping-your-technical-skills-40579cc8ea00)
+* [Git config tips](https://blog.scottnonnenberg.com/better-git-configuration/)
+
