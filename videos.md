@@ -36,3 +36,5 @@ to be watched or to keep as list of videos worth to watch.
 * [Why technical leadership matters](https://youtu.be/_6BKK1SPAVI)
 * [Frederick Brooks’ The Mythical Man Month](https://vimeo.com/71116317)
 * [Stuart Halloway: Introduction to Clojure](https://vimeo.com/68375202)
+* [Why Clojure? - Derek Slager](https://www.youtube.com/watch?v=BThkk5zv0DE)
+* [Humpty Dumpty A story of API DevOps Gone Wrong - Emily Dowdle](https://www.youtube.com/watch?v=6mI9ZfDjlrY)
