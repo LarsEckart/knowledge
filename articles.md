@@ -32,7 +32,7 @@ to read or to keep as list of articles worth to read.
 * [Java Design Checklist](https://theamiableapi.com/2012/01/16/java-api-design-checklist/)
 * [No more boilerplate code](http://blog.thecodewhisperer.com/permalink/no-more-boilerplate-code)
 * [Bash quirks](http://jvns.ca/blog/2017/03/26/bash-quirks/)
-
+* [How Developers Stop Learning: Rise of the Expert Beginner](http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
 
 ## found the time to read this
 * [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/#more-243)
