@@ -27,6 +27,7 @@ to read or to keep as list of articles worth to read.
 * [java 310 articles](http://www.threeten.org/articles/index.html)
 * [more articles on java 310](http://www.threeten.org/links.html)
 * [Questions to ask in job interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+* [A developer’s guide to interviewing](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
 * [CircutBreaker](https://martinfowler.com/bliki/CircuitBreaker.html)
 * [Dining philosopher in java8](http://bruceeckel.github.io/2016/12/29/dining-philosophers-in-java-8/)
 * [Java Design Checklist](https://theamiableapi.com/2012/01/16/java-api-design-checklist/)
@@ -45,3 +46,4 @@ to read or to keep as list of articles worth to read.
 * [From Engineer to Manager: keeping your technical skills](https://hackernoon.com/from-engineer-to-manager-keeping-your-technical-skills-40579cc8ea00)
 * [Git config tips](https://blog.scottnonnenberg.com/better-git-configuration/)
 * [Programming achievements: How to level up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
+* [Debugging Tips and Tricks](https://css-tricks.com/debugging-tips-tricks/)
