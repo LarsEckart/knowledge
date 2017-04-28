@@ -47,3 +47,5 @@ to read or to keep as list of articles worth to read.
 * [Git config tips](https://blog.scottnonnenberg.com/better-git-configuration/)
 * [Programming achievements: How to level up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
 * [Debugging Tips and Tricks](https://css-tricks.com/debugging-tips-tricks/)
+* [A Nice API Design Gem: Strategy Pattern With Lambdas](https://blog.jooq.org/2017/03/17/a-nice-api-design-gem-strategy-pattern-with-lambdas/)
+* [Lazy Computations in Java with a Lazy Type](https://www.sitepoint.com/lazy-computations-in-java-with-a-lazy-type/)
