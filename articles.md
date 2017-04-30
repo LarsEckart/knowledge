@@ -1,8 +1,5 @@
 # Articles
 
-to read or to keep as list of articles worth to read.
-
-## have to find time reading this
 * [Getting Started with Dropwizard](https://www.sitepoint.com/tutorial-getting-started-dropwizard/)
 * [Reactive programming vs. Reactive systems](https://www.oreilly.com/ideas/reactive-programming-vs-reactive-systems)
 * [Good naming is a process, not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
@@ -35,7 +32,7 @@ to read or to keep as list of articles worth to read.
 * [Bash quirks](http://jvns.ca/blog/2017/03/26/bash-quirks/)
 * [How Developers Stop Learning: Rise of the Expert Beginner](http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
 
-## found the time to read this
+
 * [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/#more-243)
 * [Overcoming Roadblocks While Learning to Code in Your Spare Time](https://www.vikingcodeschool.com/posts/learning-to-code-in-your-spare-time)
 * [some notes on RFCs](http://blog.npmjs.org/post/153881413635/some-notes-on-rfcs)
@@ -48,4 +45,17 @@ to read or to keep as list of articles worth to read.
 * [Programming achievements: How to level up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
 * [Debugging Tips and Tricks](https://css-tricks.com/debugging-tips-tricks/)
 * [A Nice API Design Gem: Strategy Pattern With Lambdas](https://blog.jooq.org/2017/03/17/a-nice-api-design-gem-strategy-pattern-with-lambdas/)
+
+* [The $61,392 Book Launch That Let Me Quit My Job](https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/)
+
+## Software Engineering
+
+* [Measuring software engineering competency](http://www.savvyclutch.com/measuring-software-engineering-competency/)
+
+### Java
 * [Lazy Computations in Java with a Lazy Type](https://www.sitepoint.com/lazy-computations-in-java-with-a-lazy-type/)
+* [Date/Time Formatting/Parsing, Java 8 Style](https://dzone.com/articles/datetime-formattingparsing)
+
+### Misc
+* [Create a landing page with Sinatra, Google Spreadsheets, and Ruby](https://www.twilio.com/blog/2017/03/create-a-landing-page-with-sinatra-google-spreadsheets-and-ruby.html)
+
