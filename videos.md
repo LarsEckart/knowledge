@@ -40,3 +40,4 @@ to be watched or to keep as list of videos worth to watch.
 * [Humpty Dumpty A story of API DevOps Gone Wrong - Emily Dowdle](https://www.youtube.com/watch?v=6mI9ZfDjlrY)
 * [How to fail with 100% test coverage](http://jasonrudolph.com/blog/2008/09/09/audio-video-slides-how-to-fail-with-100-test-coverage-at-raleighrb/)
 * [The beauty of bad code](https://www.youtube.com/watch?v=2qW-uqFl2X0)
+* [Madis Pink - cool stuff about gradle build scripts](https://slideslive.com/38900605/dont-be-ashamed-of-your-gradlebuild-files-anymore)
