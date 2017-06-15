@@ -55,6 +55,8 @@
 ### Java
 * [Lazy Computations in Java with a Lazy Type](https://www.sitepoint.com/lazy-computations-in-java-with-a-lazy-type/)
 * [Date/Time Formatting/Parsing, Java 8 Style](https://dzone.com/articles/datetime-formattingparsing)
+* [Make or break... with gradle](https://medium.com/contentsquare-engineering-blog/make-or-break-with-gradle-dac2e858868d)
+  * how to use findbugs, checkstyle, pmd, lint and such in your project to keep it in shape. 
 
 ### Misc
 * [Create a landing page with Sinatra, Google Spreadsheets, and Ruby](https://www.twilio.com/blog/2017/03/create-a-landing-page-with-sinatra-google-spreadsheets-and-ruby.html)
