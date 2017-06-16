@@ -88,3 +88,7 @@ license {
     mapping('java', 'SLASHSTAR_STYLE')
 }
 ```
+
+### Use LinkedHashMap instead of HashMap
+
+[link](https://publicobject.com/2016/02/08/linkedhashmap-is-always-better-than-hashmap/)
