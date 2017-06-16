@@ -51,6 +51,7 @@
 ## Software Engineering
 
 * [Measuring software engineering competency](http://www.savvyclutch.com/measuring-software-engineering-competency/)
+* [Do not do global case mapping when dealing with json](https://publicobject.com/2016/01/20/strict-naming-conventions-are-a-liability/)
 
 ### Java
 * [Lazy Computations in Java with a Lazy Type](https://www.sitepoint.com/lazy-computations-in-java-with-a-lazy-type/)
