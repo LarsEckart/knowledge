@@ -13,5 +13,5 @@ adb shell ip -f inet addr show wlan0
 
 ```bash
 adb tcpip 5555
-adb connect 192.168.0.xxx:5555
+adb connect 192.168.xxx.xxx:5555
 ```
