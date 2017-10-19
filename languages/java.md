@@ -1,5 +1,9 @@
 # Java
 
+### Use LinkedHashMap instead of HashMap
+
+[link](https://publicobject.com/2016/02/08/linkedhashmap-is-always-better-than-hashmap/)
+
 ## Libraries to check out
 
 * [JDBI is a SQL convenience library](http://www.jdbi.org/)
@@ -89,6 +93,11 @@ license {
 }
 ```
 
-### Use LinkedHashMap instead of HashMap
+### print test names
 
-[link](https://publicobject.com/2016/02/08/linkedhashmap-is-always-better-than-hashmap/)
+```groovy
+tasks.matching {it instanceof Test}.all {
+    testLogging.events = ["failed", "passed", "skipped"]
+}
+```
+
