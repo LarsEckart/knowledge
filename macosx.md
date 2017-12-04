@@ -21,3 +21,15 @@ and restart.
 ## Switch between desktops
 
 Crtl + left/right arrow
+
+## symlink log file to /tmp
+
+```
+cd /
+sudo mkdir logs
+cd logs/
+sudo ln -s /tmp/dev.log service.log
+```
+
+Now if any app is configured to log to /logs/service.log, it will write to my
+tmp folder which will be deleted on reboot :)
