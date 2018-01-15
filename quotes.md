@@ -38,4 +38,6 @@ Danyl Bosomworth (based on Tony Robbins’ 2mm Rule)
 
 >The opposite of #KISS (Keep It Simple Stupid) is #KICKME (Keep It Complicated Keep Me Employed).
 
+[Andy Richter]()
+>Before I start arguing with somebody, I try to save them a little time by letting them know that I’m usually right about stuff.
 
