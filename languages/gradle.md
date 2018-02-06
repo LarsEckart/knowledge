@@ -50,6 +50,16 @@ tasks.matching {it instanceof Test}.all {
 }
 ```
 
+## print test failure reason to console
+
+```groovy
+test {
+    testLogging {
+        exceptionFormat = 'full'
+    }
+}
+```
+
 ## How to specify java version for compileJava task
 
 ```bash
