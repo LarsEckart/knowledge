@@ -34,6 +34,14 @@ $ git checkout master
 $ git merge upstream/master
 ```
 
+## How to fix your fork
+
+```
+git fetch upstream && git reset --hard upstream/master && git clean -f -d
+```
+
+and then force push to your origin.
+
 ## Execute command in all git folders
 
 [so link](http://stackoverflow.com/questions/3497123/run-git-pull-over-all-subdirectories)
