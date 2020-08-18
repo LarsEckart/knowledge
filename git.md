@@ -34,7 +34,7 @@ $ git checkout master
 $ git merge upstream/master
 ```
 
-## How to fix your fork
+## How to reset and sync local repository with remote branch
 
 ```
 git fetch upstream && git reset --hard upstream/master && git clean -f -d
